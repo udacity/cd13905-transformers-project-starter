@@ -1,0 +1,6 @@
+# Python 3.10. These are the versions the project workspace runs.
+numpy==1.26.4
+pandas==2.2.2
+torch==2.3.0
+transformers==4.39.3
+tokenizers==0.15.2
